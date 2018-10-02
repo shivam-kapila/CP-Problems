@@ -6,6 +6,8 @@ Created on Wed Jan 31 20:08:53 2018
 @author: chirag
 """
 
+#sieve used
+
 def Form_primes():
     """
     Returns a list of primes numbers upto 10 ** 4.5 (HARDCODED)
